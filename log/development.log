@@ -1,0 +1,63 @@
+Started GET "/" for 127.0.0.1 at 2018-06-11 17:08:04 -0700
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 199ms (Views: 4.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-11 17:08:05 -0700
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-12 08:51:58 -0700
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 114ms (Views: 5.0ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2018-06-12 08:52:09 -0700
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 456ms (Views: 453.0ms)
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2018-06-12 08:52:13 -0700
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.erb within layouts/application
+  Rendered static_pages/help.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20ms (Views: 16.5ms)
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2018-06-12 09:15:29 -0700
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.erb within layouts/application
+  Rendered static_pages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 24ms (Views: 20.7ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2018-06-12 09:15:43 -0700
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 23ms (Views: 20.1ms)
+
+
+Started GET "/static_pages/about" for 127.0.0.1 at 2018-06-12 09:23:09 -0700
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.erb within layouts/application
+  Rendered static_pages/about.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 20ms (Views: 17.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-12 14:23:40 -0700
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 19.4ms)
+
+
